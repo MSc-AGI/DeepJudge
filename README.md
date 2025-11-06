@@ -9,7 +9,7 @@ Work Sample for Product Manager (Lead) Role
 -----
 
 **Author:** Marcelo Caballero, MSc AI, MBA<br>
-**Target Role:** Lead Product Manager<br>
+**Target Role:** Product Manager (Lead)<br>
 **Length:** 43 slides<br>
 **Sources:** Public information only, DeepJudge official communications (2023 – 2025)
 
