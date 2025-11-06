@@ -7,16 +7,16 @@
 
 A strategic and technical vision deck for
 **DeepJudge’s Platform Evolution and Product Leadership**<br>
-(Work Sample for Lead Product Manager Role)
+(Work Sample for Product Manager (Lead) Role)
 
 </div>
 
 ---
 
-**Author:** Marcelo Caballero, MSc AI, MBA
-**Target Role:** Lead Product Manager – Legal AI Platform
-**Length:** 42 slides
-**Sources:** Public information only + DeepJudge official communications (2023 – 2025)
+**Author:** Marcelo Caballero, MSc AI, MBA<br>
+**Target Role:** Lead Product Manager<br>
+**Length:** 42 slides<br>
+**Sources:** Public information only + DeepJudge official communications (2023 – 2025)<br>
 
 ---
 
@@ -40,7 +40,7 @@ A strategic and technical vision deck for
 
 ## Purpose
 
-To present a **ready-to-execute product strategy** for DeepJudge’s next growth stage:
+To present a **product strategy** for DeepJudge’s next growth stage:
 from a **retrieval-based knowledge system** to a **trusted, agentic workflow platform**.
 This work translates DeepJudge’s technological achievements and market position into a clear operating plan that bridges product, engineering, and partnership execution with Thomson Reuters.
 
@@ -50,7 +50,7 @@ This work translates DeepJudge’s technological achievements and market positio
 
 This deck shows how I think, lead, and deliver.
 It reflects ten years of building platforms where **trust, compliance, and performance** define success.
-It is not a theoretical exercise but a concrete proposal for DeepJudge’s evolution into the **defining infrastructure for legal AI**—a system that unites retrieval, reasoning, and workflow automation with enterprise-grade governance.
+It is a work sample based on public data as a proposal for DeepJudge’s evolution into the **defining infrastructure for legal AI**, a system that unites retrieval, reasoning, and workflow automation with enterprise-grade governance.
 
 ---
 
@@ -58,7 +58,7 @@ It is not a theoretical exercise but a concrete proposal for DeepJudge’s evolu
 
 * **Layered Platform Blueprint:** Maps DeepJudge’s L1–L3 evolution (Search → Assistant → AI Workflows) into a coherent architecture and execution timeline.
 * **Strategic Symbiosis:** Frames the Thomson Reuters partnership as a growth accelerator while preserving DeepJudge’s independence and data-governance moat.
-* **Founder-Level Alignment:** Speaks the language of AI research and product delivery with equal fluency—designed for a CTO who values rigor and a CEO who values clarity.
+* **Founder-Level Alignment:** Speaks the language of AI research and product delivery with equal fluency, designed for the CTO who values rigor and the CEO who values clarity.
 * **Execution Roadmap:** Defines a 90-day and 12-month plan for Layer 3 builder enablement, market feedback loops, and workflow adoption metrics.
 * **Trust as Product:** Extends the “Fort Knox” architecture into permission-aware workflow automation, anchoring DeepJudge’s long-term defensibility.
 
@@ -66,7 +66,7 @@ It is not a theoretical exercise but a concrete proposal for DeepJudge’s evolu
 
 ## Who this is for
 
-* **DeepJudge Founders and Leadership** – Paulina Grnarova, Yannic Kilcher, Thibault Bovet.
+* **DeepJudge Founders and Leadership** Paulina Grnarova, Yannic Kilcher, Kevin Roth.
 * **Product and Engineering Leads** defining the L3 Workflows platform.
 * **Strategic Partners** such as Thomson Reuters and early builder-law firms (Gunderson Dettmer, Homburger).
 * **Investors and Advisors** seeking a clear view of DeepJudge’s platform trajectory.
@@ -75,11 +75,11 @@ It is not a theoretical exercise but a concrete proposal for DeepJudge’s evolu
 
 ## How to review
 
-1. **Slides 1–10:** Purpose and Market Context – shows the retrieval-to-workflow transition framed by industry trends and partnership catalysts.
-2. **Slides 11–25:** Architecture Deep Dive – explains the three-layer stack, hybrid retrieval, and permission-aware indexing that form the core technology moat.
-3. **Slides 26–33:** Platform Capabilities and User Journey – illustrates how lawyers and builders interact through a unified experience.
-4. **Slides 34–41:** Product Manager Mission – defines success metrics, cross-functional leadership, and delivery focus aligned with the JD.
-5. **Slides 42–48:** Roadmap and Vision – lays out the 90-Day and 12-Month execution plans and the strategic north star for DeepJudge’s agentic ecosystem.
+1. **Slides 1–10:** Purpose and Market Context, shows the retrieval-to-workflow transition framed by industry trends and partnership catalysts.
+2. **Slides 11–25:** Architecture Deep Dive, explains the three-layer stack, hybrid retrieval, and permission-aware indexing that form the core technology moat.
+3. **Slides 26–33:** Platform Capabilities and User Journey, illustrates how lawyers and builders interact through a unified experience.
+4. **Slides 34–41:** Product Manager Mission, defines success metrics, cross-functional leadership, and delivery focus aligned with the JD.
+5. **Slides 42–48:** Roadmap and Vision, lays out the 90-Day and 12-Month execution plans and the strategic north star for DeepJudge’s agentic ecosystem.
 
 ---
 
