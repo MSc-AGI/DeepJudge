@@ -24,7 +24,7 @@ Work Sample for Product Manager (Lead) Role
 <tbody>
 <tr>
 <td align="center">
-<img src="pictures/DJ_title.jpg" alt="DeepJudge Presentation Title Slide" width="420"><br>
+<img src="png/DJ_01.png" alt="DeepJudge Presentation Title Slide" width="420"><br>
 <a href="(https://gitfront.io/r/MScAI/DeepJudge/raw/Decks/Building_the_Next-Gen_Legal_AI_Platform_Together.pdf)">Open Deck (PDF)</a>
 </td>
 </tr>
